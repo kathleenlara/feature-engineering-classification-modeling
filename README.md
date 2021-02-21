@@ -1,4 +1,4 @@
-# Feature Engineering & Predictive Analysis
+# Feature Engineering & Classification Modeling
 
 This data modeling project is for Apprentice Chef - an innovative startup who recently had a cross promotion partnership with Half Way There (wine company) to diversify it's menue and get more sources of revenue.
 

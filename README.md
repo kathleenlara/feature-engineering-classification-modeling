@@ -1,6 +1,6 @@
 # Feature Engineering & Classification Modeling
 
-This data modeling project is for Apprentice Chef - an innovative startup who recently had a cross promotion partnership with Half Way There (wine company) to diversify it's menue and get more sources of revenue.
+This data modeling project is for Apprentice Chef - an innovative startup who recently had a cross promotion partnership with Half Way There (wine company) to diversify it's menu and get more sources of revenue.
 
 ## Goal
 Develop top insights and build  a machine learning model to predict which customers will subscribe to the cross selling promotion partnership with Half Way There.
